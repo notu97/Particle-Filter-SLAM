@@ -142,7 +142,7 @@ def mapCorrelation(im, x_im, y_im, vp, xs, ys):
 
 
 # Define MAP and other variables
-N, N_threshold =50,200 # 30 # 35 # No of Particles
+N, N_threshold =100,35 # 30 # 35 # No of Particles
 X=np.zeros((N,3))
 
 # X[:,2]=X[:,2]/10
