@@ -14,7 +14,7 @@ import time
 # odom=load_data.get
 import Transform as Tfm
 from mpl_toolkits.mplot3d import Axes3D
-from p2_utils import *
+#from p2_utils import *
 # import bresenham as bres
 from IPython.display import clear_output
 import cv2
